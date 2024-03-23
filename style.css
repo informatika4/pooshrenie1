@@ -1,0 +1,36 @@
+body {
+	background-image: url(./img/fon2.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+header {
+	background: rgba(0, 0, 0, 0.2);
+	min-height: 150px;
+	font-size: 50px;
+	text-align: center;
+	line-height: 70px;
+	font-family: Arial;
+	}
+.p1 {
+	padding-left: 10px;
+	font-size: 25px;
+}
+h {
+	font-family: Arial;
+}
+table {
+	style="font-size: 20px;"
+	border-color: black;
+	background-color: white; opacity: 0.8;
+}
+ul {
+	font-size: 25px;
+	font-family: Arial;
+}
+.p3 {
+	font-size: 25px;
+}
+.bottom {
+	text-shadow: 0 0 1em lightgray;
+}
